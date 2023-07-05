@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaneAnne218
 - 👀 I’m interested in vue/vite/node.js/rollup/webpack
-- 🌱 myblog:https://janeanne218.github.io/
+- 🌱 myblog:https://janeanne218.github.io/myblog2/
 - 📫 How to reach me janeanne218@gmail.com
 - 🎮 game：https://janeanne218.github.io/Tetris/
 <!---
